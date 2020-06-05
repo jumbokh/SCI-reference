@@ -1,5 +1,5 @@
-# SCI-reference
-###　[2019年最新汤森路透 JCR SCI 期刊分区（电气与电子工程）](https://zhuanlan.zhihu.com/p/103915936)
+## SCI-reference
+* [2019年最新汤森路透 JCR SCI 期刊分区（电气与电子工程）](https://zhuanlan.zhihu.com/p/103915936)
 #### [International Transactions on Electrical Energy Systems](https://mc.manuscriptcentral.com/itees)
 #### [New Journal on Sustainable Energy, Grids and Networks](https://actu.epfl.ch/news/new-journal-on-sustainable-energy-grids-and-networ/)
 #### [干货 | 教您如何向SCI期刊投稿](https://zhuanlan.zhihu.com/p/81579188)
